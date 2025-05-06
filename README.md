@@ -11,7 +11,7 @@
 </div>
   <h2 align="center">📧 Email 📧</h2>
   <p align="center">
-    <Strong> 자 신 의 이 메 일 아 이 디 </Strong>
+    <Strong> sosiluv@gmail.com </Strong>
   </p><br>  
   <!--Body-->
   
