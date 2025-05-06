@@ -11,6 +11,8 @@
   ## 🧑‍💻 Contact me
   <a href=mailto:sosiluv@gmail.com> <img src="https://img.shields.io/badge/sosiluv@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:sosiluv@gmail.com"> </a>
   <a href=https://www.instagram.com/kwonkisang1125> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/kwonkisang1125">
+  <a href="블로그 주소"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=블로그 주소"/></a>
+<a href="인스타그램 주소" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
   <br/><br/>
   
   ## 👀 About Me
