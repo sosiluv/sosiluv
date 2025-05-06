@@ -22,7 +22,6 @@
 
   ## 👀 About Me
   #### :fire: I aim to become a BackEnd Engineer.
-  <br>
 
   ## 🤔 Stats
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sosiluv)
