@@ -9,7 +9,7 @@
   <!--Body-->
   
   ## 🧑‍💻 Contact me
-  <a href=mailto:sosiluv@gmail.com> <img src="https://img.shields.io/badge/sosiluv@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:sosiluv@gmail.com"> </a>
+  <a href=mailto:sosiluv@gmail.com> <img src="https://img.shields.io/badge/sosiluv@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:sosiluv@gmail.com"> </a>&nbsp
   <a href=https://www.instagram.com/kwonkisang1125> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/kwonkisang1125"> </a>
   <br/><br/>
   
