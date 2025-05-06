@@ -14,11 +14,7 @@
   #### :mortar_board: Bachelor of Applied Artificial Intelligence, Sungkyunkwan University(SKKU)
   <br/>
   <br/>
-  <!-- https://gist.github.com/rxaviers/7360908
-       https://simpleicons.org/?q=api
-       https://github.com/anuraghazra/github-readme-stats
-       https://github.com/anuraghazra/github-readme-stats
-  -->
+ 
   ## 🤔 Github Stats
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiyu-Kim)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
