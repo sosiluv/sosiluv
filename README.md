@@ -9,9 +9,9 @@
     <div align= "center"> 
     <a href="mailto:sosiluv@gmail.com"> <img src="https://img.shields.io/badge/sosiluv@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:sosiluv@gmail.com"> </a>
 </div><br>
-  
+
 ## 👀 About Me
-#### :fire: I aim to become a BackEnd Engineer.<br/>
+#### :fire: I aim to become a BackEnd Engineer.
 <br/>
 
 ## 🤔 Stats
