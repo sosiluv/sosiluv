@@ -1,13 +1,16 @@
+<!--Header-->
 <div align= "center">
-  
-  <!--Header-->
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
-  
 </div>
+<!--badge-->
 <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #c9d1d9;"> 🧑‍💻 Contact me </h2>
-    <div align= "center"> 
-    <a href="mailto:sosiluv@gmail.com"> <img src="https://img.shields.io/badge/sosiluv@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:sosiluv@gmail.com"> </a>
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #c9d1d9;"> 🧑‍💻 Contact me </h2>
+  <div align= "center"> 
+  <a href="mailto:sosiluv@gmail.com"> <img src="https://img.shields.io/badge/sosiluv@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:sosiluv@gmail.com"> </a>
+</div><br>
+<div align= "center">
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #c9d1d9;"> 👀 About Me </h2>
+  #### :fire: I aim to become a BackEnd Engineer.
 </div><br>
 
   ## 👀 About Me
