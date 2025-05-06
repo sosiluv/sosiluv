@@ -36,3 +36,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ <!-- https://gist.github.com/rxaviers/7360908
+       https://simpleicons.org/?q=api
+       https://github.com/anuraghazra/github-readme-stats
+       https://github.com/anuraghazra/github-readme-stats
+  -->
