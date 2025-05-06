@@ -10,15 +10,14 @@
     <a href="mailto:sosiluv@gmail.com"> <img src="https://img.shields.io/badge/sosiluv@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:sosiluv@gmail.com"> </a>
 </div><br>
 
-## 👀 About Me
-#### :fire: I aim to become a BackEnd Engineer.
-<br/>
+  ## 👀 About Me
+  #### :fire: I aim to become a BackEnd Engineer.
+  <br/>
 
-## 🤔 Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sosiluv)
-<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sosiluv)
-  
+  ## 🤔 Stats
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sosiluv)
+  <br/>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sosiluv)
 </div>
 
 <!--
