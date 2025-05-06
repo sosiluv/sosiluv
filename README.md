@@ -15,7 +15,7 @@
   ## 👀 About Me
   #### :raising_hand: I am a BackEnd Engineer from South Korea.<br/>
   #### :fire: I aim to become a BackEnd Engineer.<br/>
-  <br/><br/>
+  <br/>
   
   ## 🧱 Tech Stack
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white">
