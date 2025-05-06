@@ -6,13 +6,12 @@
 <div align= "center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #c9d1d9;"> 🧑‍💻 Contact me </h2>
   <div align= "center"> 
-  <a href="mailto:sosiluv@gmail.com"> <img src="https://img.shields.io/badge/sosiluv@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:sosiluv@gmail.com"> </a>
-</div><br>
-<div align= "center">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #c9d1d9;"> 👀 About Me </h2>
-  fire:<h4>I aim to become a BackEnd Engineer.</h4>#### :fire: I aim to become a BackEnd Engineer.
-</div><br>
-
+    <a href="mailto:sosiluv@gmail.com"> <img src="https://img.shields.io/badge/sosiluv@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:sosiluv@gmail.com"> </a>
+  </div><br>
+  <div align= "center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #c9d1d9;"> 👀 About Me </h2>
+  </div><br>
+</div>
   ## 👀 About Me
   #### :fire: I aim to become a BackEnd Engineer.
   <br>
@@ -21,7 +20,6 @@
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sosiluv)
   <br/>
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sosiluv)
-</div>
 
 <!--
 **sosiluv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
