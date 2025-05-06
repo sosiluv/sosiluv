@@ -26,8 +26,8 @@
   <br/><br/>
   
   ## 🤔 Github Stats
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sosiluv)](https://github.com/sosiluv)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sosiluv)
+  ![](https://github-readme-stats.vercel.app/api?username=sosiluv)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sosiluv)
   
 </div>
 
