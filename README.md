@@ -8,7 +8,7 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> 
     <a href=mailto:sosiluv@gmail.com><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:sosiluv@gmail.com"></a>
-</div>
+</div><br>
   <h2 align="center">📧 Email 📧</h2>
   <p align="center">
     <Strong> sosiluv@gmail.com </Strong>
