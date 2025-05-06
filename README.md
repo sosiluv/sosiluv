@@ -5,7 +5,7 @@
   
 </div>
 
-<div>
+<div align= "center">
   <!--Body-->
   
   ## 👀 About Me
