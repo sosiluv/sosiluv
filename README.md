@@ -10,7 +10,7 @@
 </div><br>
 <div align= "center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #c9d1d9;"> 👀 About Me </h2>
-  <h4>fire: I aim to become a BackEnd Engineer.</h4>#### :fire: I aim to become a BackEnd Engineer.
+  fire:<h4>I aim to become a BackEnd Engineer.</h4>#### :fire: I aim to become a BackEnd Engineer.
 </div><br>
 
   ## 👀 About Me
