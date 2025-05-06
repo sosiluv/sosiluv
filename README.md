@@ -1,12 +1,16 @@
 <div>
-  
   <!--Header-->
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
-  
 </div>
 
 <div>
   <!--Body-->
+  <div align= "center">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
+    <div align= "center"> <a href=mailto:sosiluv@gmail.com> <img src="https://img.shields.io/badge/sosiluv@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:sosiluv@gmail.com"> </a>
+          </div>  <br> 
+    <div align= "center">  </div> 
+  </div>
   
   ## 👀 About Me
   #### :raising_hand: I am a Cloud Engineer from South Korea.<br/>
