@@ -1,6 +1,6 @@
 <!--Header-->
 <div align= "center">
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
+    <img src="https://capsule-render.vercel.app/api?type=rounded&color=auto&height=120&text=&animation=&fontColor=000000&fontSize=70" />
 </div>
 <!--badge-->
 <div align= "center">
