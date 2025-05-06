@@ -10,16 +10,12 @@
   
   ## 🧑‍💻 Contact me
   <a href=mailto:sosiluv@gmail.com> <img src="https://img.shields.io/badge/sosiluv@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:sosiluv@gmail.com"> </a>
-  <br/>
-  <br> 
-    <div align= "center">  </div> 
-    </div>
+  <br/><br/>
   
   ## 👀 About Me
   #### :raising_hand: I am a BackEnd Engineer from South Korea.<br/>
   #### :fire: I aim to become a BackEnd Engineer.<br/>
-  <br/>
-  <br/>
+  <br/><br/>
   
   ## 🧱 Tech Stack
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white">
@@ -27,7 +23,6 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white">
-  <br/>
   <br/>
   
   ## 🤔 Github Stats
