@@ -1,7 +1,6 @@
 <!--Header-->
 <div align= "center">
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
-</div>
 <!--badge-->
 <div align= "center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #c9d1d9;"> 🧑‍💻 Contact me </h2>
@@ -11,7 +10,7 @@
   <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #c9d1d9;"> 👀 About Me </h2>
   </div><br>
-</div>
+
   ## 👀 About Me
   #### :fire: I aim to become a BackEnd Engineer.
   <br>
@@ -20,7 +19,7 @@
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sosiluv)
   <br/>
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sosiluv)
-
+</div>
 <!--
 **sosiluv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
