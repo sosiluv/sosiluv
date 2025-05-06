@@ -8,8 +8,6 @@
   <div align= "center"> 
     <a href="mailto:sosiluv@gmail.com"> <img src="https://img.shields.io/badge/sosiluv@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:sosiluv@gmail.com"> </a>
   </div><br>
-  <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #c9d1d9;"> 👀 About Me </h2>
   </div><br>
 
   ## 👀 About Me
@@ -22,7 +20,7 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sosiluv)
 <!--
 **sosiluv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+</div>
 Here are some ideas to get you started:
 - Hi there 👋
 - 🔭 I’m currently working on ...
