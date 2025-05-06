@@ -7,6 +7,10 @@
 
 <div>
   <!--Body-->
+  
+  ## 🧑‍💻 Contact me
+  <a href=mailto:sosiluv@gmail.com> <img src="https://img.shields.io/badge/sosiluv@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:sosiluv@gmail.com"> </a>
+  
   <div>
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
     <div> <a href=mailto:sosiluv@gmail.com> <img src="https://img.shields.io/badge/sosiluv@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:sosiluv@gmail.com"> </a>
@@ -26,7 +30,7 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white">
   <br/>
   <br/>
   
